@@ -92,7 +92,10 @@ export default function Blog() {
                 <div className="exp-div">
                   <h4>Experience</h4>
                   <div className="job-info">
-                    <h6>Client Relations Manager, PBD Wealth Management</h6>
+                    <h6>
+                      Client Relations Manager, Polson Bourbonniere Derby Wealth
+                      Management
+                    </h6>
                     <p className="duration-p">Aug 2023 - Present</p>
                     <ul>
                       <li>
